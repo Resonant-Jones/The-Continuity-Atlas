@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="The-Continuity-Atlas" src="https://github.com/user-attachments/assets/670aadb7-d23c-4cd1-812b-71e958df4128" />
+
 # The Continuity Atlas
 
 ## Field Notes for AI-Assisted Engineering 🕯️💻📜
